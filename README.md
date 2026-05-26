@@ -9,7 +9,6 @@ To study the behavior of series and parallel RLC circuits at resonance and to de
 
 <img width="504" height="276" alt="image" src="https://github.com/user-attachments/assets/2716f700-2960-4ba2-9e8f-7fa1cebda461" />
 
-
 **THEORY:**
 
 A resonant circuit, also called a **tuned circuit** consists of L and C. Resonant circuits allow us to select a desired signal from the vast number of signals that are around us at any time. A network is in resonance when the voltage and current are in phase and the network's input impedance is purely resistive. Considering the Parallel RLC circuit, the steady-state admittance offered by the circuit is:
@@ -25,21 +24,23 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **CIRCUIT DIAGRAM:**
 
+**SERIES RLC CIRCUIT:**
 
+<img width="1610" height="730" alt="image" src="https://github.com/user-attachments/assets/1cdb4195-ad72-4f9e-ae54-c7d28ac16c3f" />
 
+**PARALLEL RLC CIRCUIT:**
 
-**Model graph:**
+<img width="1610" height="661" alt="image" src="https://github.com/user-attachments/assets/f731c436-bdf5-40c4-a087-ddea7754b29b" />
 
+**MODEL GRAPH:**
 
+**SERIES RESONANCE:**
 
+<img width="1352" height="1287" alt="IMG_20260526_145957665" src="https://github.com/user-attachments/assets/1f3f0184-28f1-47a3-852d-b3164cf0902d" />
 
-**TABULATION:**
+**PARALLEL RESONANCE:**
 
-
-**Calculation:**
-
-
-
+<img width="1370" height="1220" alt="IMG_20260526_145948869" src="https://github.com/user-attachments/assets/9bd4bf8e-3596-4c7a-9775-874495921c12" />
 
 **PROCEDURE:**
 
@@ -52,18 +53,29 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 7.	Calculate the Q factor
 8.	Repeat steps 1 through 7 for Parallel resonance circuit  shown.
 
-**Mark split up:**
+**THEORETICAL CALCULATION:**
+
+<img width="1298" height="948" alt="IMG_20260526_150052218" src="https://github.com/user-attachments/assets/9b23f828-6616-47d8-91d0-0b2263ccbcad" />
+<img width="1460" height="1324" alt="IMG_20260526_150103183" src="https://github.com/user-attachments/assets/7c85b297-13c6-47d8-90b6-927eadeace2f" />
+
+**TABULAR COLUMN:**
+
+<img width="2347" height="723" alt="IMG_20260526_150005337" src="https://github.com/user-attachments/assets/ae0be4dd-1218-404f-b23e-d02a6fa08b4b" />
+
+**GRAPH:**
+
+**SERIES RESONANCE:**
+
+<img width="1895" height="381" alt="image" src="https://github.com/user-attachments/assets/4c88ea0e-48e8-4053-b4fe-336f0ede112d" />
+
+**PARALLEL RESONANCE:**
+
+<img width="1895" height="386" alt="image" src="https://github.com/user-attachments/assets/37e794de-d073-4ece-9523-d20662286702" />
+
+**MARKS SPLIT-UP:**
+
+<img width="2932" height="1402" alt="IMG_20260526_150120503" src="https://github.com/user-attachments/assets/82ecc2ec-b2d6-45de-8b28-3169d9450100" />
 
 **RESULT:**
 
 Thus the phenomenon of resonance in RLC circuit was studied and the following were determined using Multisim Simulator.
-
-
-
-
-
-
-
-
-
-
